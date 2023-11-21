@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "title": "World Order changing ",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur voluptatibus voluptas officia tempore iste rem tempora unde et. Delectus sint pariatur ducimus vero culpa, optio voluptate expedita ab nostrum reprehenderit.",
+      "author": "John F Kennedy",
+      "date": "October 2",
+      "readTime": "2 mins Read",
+      "views": 102
+    },
+    {
+      "id": 2,
+      "title": "Tech Advancements",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci omnis velit atque consequatur dolorum odit autem ipsam, quas quis laudantium natus. Ipsa eum assumenda, beatae doloremque eligendi aut quisquam vel.",
+      "author": "Tech Intern",
+      "date": "December 5",
+      "readTime": "3 mins Read",
+      "views": 150
+    },
+    {
+      "id": 3,
+      "title": "Rise of Artificial Intelligence",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus velit, ex unde commodi accusantium repellat, officia soluta itaque qui laborum non ratione saepe possimus corporis necessitatibus distinctio porro impedit modi?",
+      "author": "AI Analyst",
+      "date": "November 8",
+      "readTime": "4 mins Read",
+      "views": 200
+    }
+  ]
+  
